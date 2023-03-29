@@ -16,3 +16,6 @@ Clonando um repositório
       4 - Aguarde o download dos arquivos serem concluidos.
 
       5 - Pronto, agora esse repositório estará sendo versionado de forma local no seu computador, ao abrir a pasta de destino, todos os arquivos estarão lá.
+
+     * Qualquer repositório que estiver publuco pode ser clonada para sua máquina e alterado de forma local, porém, não podemos alterar e utilizar o "push" para reposiórios sem a autorização do proprietário do mesmo.
+     * Caso o Proprietário não aceite a mofificação, temos as funções "issues" e "fork" para podermos modificar o repositório. Assunto para a proxima Aula.
