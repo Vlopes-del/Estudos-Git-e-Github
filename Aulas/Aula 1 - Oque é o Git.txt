@@ -1,0 +1,28 @@
+Git e GitHub.
+
+
+Git - Software de controle de Versão (VCS)
+
+GitHub - Plataforma de rede Social para Programadores
+
+
+Git
+
+* O Git é uma ferremanta de versionamneto de código.
+    E funciona como o software de vercionamento local, salvando sempre a diferença de uma versão para outra. 
+    Na programação lidamos sem com muitas vesões de uma mesma coisa.
+
+   Commit -> mandar uma alterção para o repositório central.
+
+   * modelocentrlizado/linear - Existe apenas um unico repositorio central, mas varias copias para trabalho, uma para cada desenvolvedor, a comunicação entre uma area detrabalho e outra passa obrigatoriamente pelo repositório.
+
+   * Modelo distribuido - São varios repositorios autonomos e independentes, um para cadadesenvolvidor. Cada repositorio possui uma área de trabalho acoplada e as operações ""commit" e "update" acontecem localmente entre os dois.
+
+Vantagens ao utilizar
+
+  * Controle de histórico
+  * Trabalho em equipe
+  * Ramificação do projeto
+  * Segurança
+  * Organização
+

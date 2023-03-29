@@ -1,0 +1,87 @@
+Evolução do Git e GitHub
+
+Um pouco de historia ..
+
+1985
+ -- CVS
+   
+   * Software de modelo centralizado.
+   * Criado em 1985.
+   * Open Source
+   * Mais popular na época
+   * Alguns problemas relacionados a Consistência e velocidade.
+
+2000
+ -- SVN - Subversion
+
+    * Software de modelo contralizado
+    * Criado em 2000 pela Apache
+    * Open Source
+    * Muito parecido com o CVS, criado com o intuito de resolver os problemas que existia no CVS.
+    * Foi mal recebido por querer copiar o CVS.
+    * CVS-like
+
+ -- BitKeeper
+   
+    * Software de modelo distribuido.
+    * Criado também em 2000 pela Bitmover.
+    * Software proprietário.
+    * Existia uma Versão comunidade.
+    * Não era CVS-free, senod melhor aceito por não querer copiar o CVS.
+
+2004    
+
+ -- SourcePuller
+ 
+    * Software cliente de BitKeeper.
+    * Fazia acesso aos repositórios.
+    * Engenharia Reversa.
+    * Recursos destravados da versão Comunidade do BitKeeper.
+
+2005
+
+ --BitKepper
+    
+    * Nova lincença lançada
+    * Bloqueava acesso a meta-dados
+    * Dificultada a ver as versões anteriores
+    * Só na versão comercial
+    * Linus Torvald Resolve criar um software de Versionamento.
+
+  -- Git
+
+    * Software de modelo Distribuido.
+    * Open Source.
+    * Desenvolvido em 10 Dias.
+    * Criado para substituir o BitKeeper após sua nova licença se torna-lo inviavel para uso gratuito.
+    * Focado em performance.
+    * Sendo o Software mais utilizado hoje me dia.
+
+
+2008 
+  --GitHub
+
+    * Criado por Tres programadores.
+    * Software proprietario.
+    * Surgiu apenas como um lugar de hospedagem de codigo.
+    * Depois as funcoes sociais foram aplicadas no software.
+    * Baseado em Git.
+    * Em 2009 ja haviam 46k repositórios. 
+    * Em 2010 haviam 100k user/ 1M repositórios.
+    * 2011 Ultrapassou SourceForge.
+    * Em 2013 3M users / 5M repositórios.
+    * Em 2016 14 lugar na lista da Forbes Cloud.
+    * Em 2018 Maior ataque de DDoS da história.
+    * Em 2018 Foram adquiridos pela Microsoft por 7.5 Bilhões.
+       * Operação independente.
+       * Em 2020 GitHub compra a "npm". 
+
+Mascote do GitHub
+   
+    * OctoCat
+    * Foi criado por Nimal Oxscilei.
+    * Autor do Larry Bird, Mascote do Twitter.
+
+Passos Seguintes
+
+ Instalar e Configurar o Git No Computador.

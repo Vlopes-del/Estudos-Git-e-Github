@@ -1,0 +1,15 @@
+  GitHub
+
+     É uma plataforma social para programadores, e funciona como um repositorio remoto. sendo um local para armazenar os arquivos
+
+    Tem muitos recursos relacionados ao compartilhamento e visacriar uma plataforma direcionada para o aprendizado, tenod muitos funcoes aonde podemos colocar e nosso progresso online, para podermos apresentar como um recurso para facilitar o aprendizado.
+      
+
+Recursos disponiveis.
+
+* Repositorios ilimitados
+* Hospedagem de código-fonte
+* Caracteristicas de rede social
+* GitHub Pages integrado
+* Colaboração
+* Forks

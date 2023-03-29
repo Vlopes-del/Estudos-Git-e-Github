@@ -1,0 +1,14 @@
+Criando o Primeiro Repositório
+
+  * Passo a passo para a criação do primeiro repositório no Github
+
+    * Nessa aula foi criado o primeiro repositório utilizando uma ferramenta chamada GitHub Desktop, que permite a manipulação dos repositorios de umaformamais intuitiva, sem a necessidade de utilizar linhas de códigos do Git
+
+  - Para Criar um repositório -
+   
+    * Selecionamos a opção de criar repositórios, aonde vamos definir o nome, descrição, local, Git Ignore e a Licença que sera baseada o Repositório, é a conselhado sempre criarmos o repositório com um README informativo, isso para agilizar, ja que será necessário criar posteriormente.
+
+    * Após criado, ja podemos editar, criar e deletar arquivos do repositório, ja podendo compartilhar como um repositório publico, utlizando as funções "commit", "Pull", "Push", entre outros que serão utilizados durante a utilização do Git.
+
+    * As alterações serão automaticamente enviadasao repositório publico quando utilizado o comando "Push".
+
