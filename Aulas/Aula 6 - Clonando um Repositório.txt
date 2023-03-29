@@ -1,0 +1,20 @@
+Clonando um repositório
+
+    * Nessa aula aprendi como é feita a clonagem de repositórios a partir do GitHub
+      
+	 -- Antes de começarmos os trabalhos com nossos projetos é aconcelhável utilizar o comando "Fetch" para trazer as alterações para o repositório local ou mandar alterações para o GitHub.
+
+
+    * Procedimeto para a Clonagem de Repositórios.
+
+      1 - Acesse o repositório desejado na plataforma do GitHub,
+
+      2 - Selecionamos a opção de clonagem na canto superior direito do repositório (normalmente opção em um botão verde),
+
+      3 - Selecionamos a opção de abir com o GitHub Desktop, definimos o local em que será armazenado e avançamos.
+
+      4 - Aguarde o download dos arquivos serem concluidos.
+
+      5 - Pronto, agora esse repositório estará sendo versionado de forma local no seu computador, ao abrir a pasta de destino, todos os arquivos estarão lá.
+
+      dsd
