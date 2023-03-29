@@ -16,5 +16,3 @@ Clonando um repositório
       4 - Aguarde o download dos arquivos serem concluidos.
 
       5 - Pronto, agora esse repositório estará sendo versionado de forma local no seu computador, ao abrir a pasta de destino, todos os arquivos estarão lá.
-
-      dsd
