@@ -1,0 +1,16 @@
+  --Seu Github Mais Seguro--
+
+    * Uma das boas práticas para a manter a segurança não só do Github, mais de qualquer outra plataforma que você utilize é criar uma senha forte seguindo essas Dicas.
+
+  - Pelo menos 8 Caracteres
+  - Letras e Números
+  - Maiúsculas e minúsculas
+  - Símbolos
+  - Evitar nomes e palavras comuns
+  - Evitar padrões
+  - Nunca compartilhar a senha
+
+   * Também é interessante ativar a autentificação de dois fatores.
+
+  - Que pode ser ativado através das settings no site do Github, em conjunto com o aplicativo Authenticator do Google.
+  - Faça login pelo google, depois use o QR code que apareceu no site no aplicativo para gerar um código de 6 Digitos, e utiliza-lo no campo abaixo do código no site.
