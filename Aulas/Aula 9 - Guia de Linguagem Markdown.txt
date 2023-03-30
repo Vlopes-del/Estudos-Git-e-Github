@@ -1,0 +1,75 @@
+  -- Guia de Linguagem MarkDown --
+
+    * É uma linguagem de marcação que visa ser mais simples que o HTML.
+    * Pensada para ser uma linguagem "Hight Redability", ja que o documento HTML não tem uma facil leitura no primeiro momento.
+    * É aplicado, nos README.md, Issues e Pull Requests.
+    
+
+    Comandos Markdown
+
+ Negrito - **Negrito** ou __Negrito__
+ Itálico - *Italico* ou _Italico_
+ Riscadas - ~~Riscadas~~        - 
+ Titulos - #, ##, ### 
+ Linha Horizontal - ***
+
+ Podendo misturar essas configurações
+
+ Lists numerada 
+
+	1. Teste
+        1. Teste2
+        1. Teste3
+
+Podendo colocar subitens, colocando três espaços antes do número. 
+
+ Lista demarcada. 
+
+   - ou *Teste
+  	*Teste
+	*Teste
+ 
+Tendo a mesma possibilidade de subitens que existe na lista númerada.
+
+ lista de taréfas
+
+     - [] Teste
+     - [] Teste
+     - [] Teste
+
+Utilizado para sinalizar uma lista de tarefas, para demarcar se a tarefa foi concluida, basta apenas colocar um "X" dentro do caixinha no arquivo.
+
+Para colocar uma imagen, podemos arrastar para a linha inferior disponível na box de edição do texto.
+
+  Para a criação de links
+
+ [Acesse o Teste](link) 
+
+ --- Tabelas ---
+
+Num | Nome | Nota
+---|---|---
+1|Gustavo|8,5
+2|Vini|10,0
+
+Para Representar comandos na linguagem MarkDown devemos colocar o código entre crazes
+
+'document.getElementById()'
+
+Dessa forma, sere mostrado com fonte mono-espeçada e com um fundo cinza para realçar o código.
+
+
+   Para demonstrarmos um pedaço de código utilizamos tre crazes para abrir e tres para fechar
+
+```
+num = int(input('Digite um valor: ')
+if num % 2 == 0
+    print(if') Valor{num} é Par)
+else:
+    print(f'O valor {num} é IMPAR)
+
+```
+
+    Dessa forma, será representado o código formatado.
+
+Para adicionar emojis utilizamos o ":" após isso basta apenas colocar o código do emoji.

@@ -1,0 +1,6 @@
+  -- Issues --
+
+    * A definição da palavra "Issue" seria um problema, ou, uma quetão a ser resolvida.
+    * issues são uma boa froma de ajudar e participar de projetos publicos no GitHub. É bássicamente uma opção para indicar ao cirador do repositório, algum problema encotrado em seu código.
+    *  Podendo utilizar as "Issues" tanto para, avisar o proprietário do código, ou também para clonar o repostório para o repositório local e resolver o problema de forma manual. trasformando em um fork.
+    * Uma boa pratica relacionada as issues é, quando houver algum problema sobre algum repostiório que estaja utilizando, antes de criar uma nova issue, devemos sempre pesquisar na area de issues do repositório se ja existe uma queixa parecida, afim de evitar issues "Clonadas".  
