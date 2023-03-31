@@ -1,0 +1,12 @@
+  --Os branches ou Ramificações--
+
+
+    Os branches são como as subdivisões de um repositório, eles são de grande ajuda para o desenvolvimento de um software.
+    Eles servem para fazer modificações no repositorio, de forma separada, tanto para resolver alguma "issue" ou para desenvolver alguma nova "feature" antes de utilizar o "push" para enviar para o repositório origin.
+
+   * De um mesmo repositorio podemos criar varias branches para varios objetivos diferentes
+   * É recomendad, nunca fazer "commits" direto na branche master, para manter os controle do versionamento, e facilitar a resolução de problemas caso você cometa algum erro, caso fosse direcionado direto para a branche master, será mais dificil resolver o problema.
+   
+    Depois de concluir as altereções nas branches do repositório podemos unifica-los com o comando "Merge" com isso ,as altereções realizadas nas branches paralelas, serão adicionadas na Branche master.
+    
+    
